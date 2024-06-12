@@ -6,3 +6,4 @@ kasmweb/nginx:1.25.3
 etherpad/etherpad
 --platform=linux/arm64 etherpad/etherpad
 budtmo/docker-android:emulator_11.0
+clue/json-server
